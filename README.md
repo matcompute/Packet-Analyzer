@@ -39,11 +39,13 @@ pip install -r requirements.txt
 ## 🛠️ Usage
 
 ### Capture Live Packets
-
 ```bash
+# Let Scapy automatically choose the interface (recommended)
+python packet_analyzer.py -c 100
+
+# Or specify interface (may need admin privileges)
 python packet_analyzer.py -c 100 -i "Ethernet"
 ```
-
 ### Analyze PCAP File
 
 ```bash
