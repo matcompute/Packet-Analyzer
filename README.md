@@ -100,9 +100,8 @@ Packet-Analyzer/
 * **TCP**: Connection resets, unusual window sizes
 * **ICMP**: Echo requests (potential ping floods)
 
-## 🤝 Contributing
-
-This project is part of a 100-day networking challenge. Feel free to suggest improvements or report issues.
+##  Author
+Mulat Tiruye
 
 ## 📄 License
 
