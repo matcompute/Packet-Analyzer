@@ -1,0 +1,27 @@
+==================================================
+PACKET ANALYSIS REPORT
+==================================================
+Total packets: 20
+Analysis time: 2025-09-15 19:51:59
+
+Protocol Distribution:
+  TCP: 10 packets
+  UDP: 5 packets
+  ICMP: 5 packets
+
+Anomalies detected: 5
+  [ICMP] ICMP echo request detected
+    Source: 192.168.1.38
+    Destination: 8.8.8.8
+  [ICMP] ICMP echo request detected
+    Source: 192.168.1.42
+    Destination: 8.8.8.8
+  [ICMP] ICMP echo request detected
+    Source: 192.168.1.47
+    Destination: 8.8.8.8
+  [ICMP] ICMP echo request detected
+    Source: 192.168.1.14
+    Destination: 8.8.8.8
+  [ICMP] ICMP echo request detected
+    Source: 192.168.1.6
+    Destination: 8.8.8.8
