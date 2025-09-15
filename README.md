@@ -1,5 +1,3 @@
-
-
 ````markdown
 # Packet Analyzer and Anomaly Detection Tool
 
@@ -13,7 +11,7 @@ A professional Python-based network packet analysis tool inspired by Wireshark, 
 - **Protocol Analysis**: View protocol distribution statistics
 - **Report Generation**: Create detailed text and CSV reports
 - **Sample Data**: Includes generated sample data for testing
-
+````
 ## 📦 Installation
 
 1. Clone the repository:
@@ -30,7 +28,7 @@ cd Packet-Analyzer
 python -m venv venv
 venv\Scripts\activate  # Windows
 # source venv/bin/activate  # Linux/Mac
-```
+````
 
 3. Install dependencies:
 
